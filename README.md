@@ -1,7 +1,10 @@
 # bootcamp2021
+Coding Bootcamp
+
+by appleseeds on behalf of The Israel Innovation Authority
 
 
- Bootcamp main sesions:
+main sessions:
 
 ✔️ HTML
 ✔️ CSS
