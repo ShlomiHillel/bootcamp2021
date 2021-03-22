@@ -1,10 +1,10 @@
 # bootcamp2021
-Coding Bootcamp
+#Coding Bootcamp - saryret tichnot
 
 by appleseeds on behalf of The Israel Innovation Authority
 
 
-main sessions:
+main topics:
 
 ✔️ HTML
 ✔️ CSS
