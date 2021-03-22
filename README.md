@@ -1,14 +1,15 @@
-# bootcamp2021  
- Coding Bootcamp - saryret tichnot
+# bootcamp 
+ Coding Bootcamp - 'sayeret tichnot'
 
 
-by appleseeds on behalf of The Israel Innovation Authority
+ 6 monthes of intensive training by 'appleseeds', 
+ on behalf of The Israel Innovation Authority
 
 
 main topics:
 
-✔️ HTML
-✔️ CSS
-✔️Javascript
-✔️React
-✔️Nodejs
+- ✔️ HTML
+- ✔️ CSS
+- ✔️Javascript
+- ✔️React
+- ✔️Nodejs
